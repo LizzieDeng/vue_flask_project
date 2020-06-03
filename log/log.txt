@@ -1,0 +1,5 @@
+2020-06-03 10:29:48,347 - _internal.py[line:122] - WARNING:  * Debugger is active!
+2020-06-03 10:29:48,359 - _internal.py[line:122] - INFO:  * Debugger PIN: 160-338-188
+2020-06-03 10:29:48,366 - _internal.py[line:122] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-06-03 10:29:52,803 - _internal.py[line:122] - INFO: 127.0.0.1 - - [03/Jun/2020 10:29:52] "OPTIONS /api/getdata HTTP/1.1" 200 -
+2020-06-03 10:29:52,812 - _internal.py[line:122] - INFO: 127.0.0.1 - - [03/Jun/2020 10:29:52] "POST /api/getdata HTTP/1.1" 200 -
